@@ -1,0 +1,34 @@
+.background{
+    background: linear-gradient(102.83deg, #fbf2cd 8.31%, #f2d12a 83.33%);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.register-form{
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%)
+
+}
+
+.register-title {
+    font-family: 'Rubik';
+    font-size: 45px;
+    color: black
+}
+
+.sign-up-form input {
+    width: 350px;
+}
+.sign-up-form {
+    font-family: 'Rubik';
+}
+
+.sign-up-form label { 
+    font-size: 18px
+}

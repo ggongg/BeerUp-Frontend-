@@ -1,0 +1,45 @@
+.background{
+    background: linear-gradient(102.83deg, #fbf2cd 8.31%, #f2d12a 83.33%);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.title{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 120%;    
+    text-align: center;
+    color: black;
+    margin-top: 200px;
+    
+}
+
+select, option{
+    font-family: 'Rubik';
+}
+
+.custom-select{
+    width: 300px;
+    margin-top: 60px;
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%)
+
+}
+
+.sign-out{
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+button{
+    font-family: 'Rubik';
+}
+
+.join-btn {
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%)
+}
